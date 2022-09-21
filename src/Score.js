@@ -1,3 +1,5 @@
+import React from 'react';
+
 const Score = ({ numCorrect, numQuestions }) => {
   return (
     <div className="score-text">
